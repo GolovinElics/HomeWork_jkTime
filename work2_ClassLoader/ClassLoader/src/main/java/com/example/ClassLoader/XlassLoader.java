@@ -1,4 +1,4 @@
-package com.example.demo_Classloader;
+package com.example.ClassLoader;
 
 import java.io.Closeable;
 import java.io.IOException;
