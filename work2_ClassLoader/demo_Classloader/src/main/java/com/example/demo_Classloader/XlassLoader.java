@@ -12,8 +12,8 @@ import java.lang.reflect.Method;
  */
 public class XlassLoader extends ClassLoader {
     public static void main(String[] args) throws Exception {
-        final String classlo";
-        final String methodName = "heName = "Helllo";
+        final String className = "Hello";
+        final String methodName = "hello";
 
         ClassLoader classLoader = new XlassLoader();
         Class<?> clazz = classLoader.loadClass(className);
